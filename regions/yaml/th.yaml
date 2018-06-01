@@ -1,15 +1,15 @@
 ---
 th:
-  phaks:
-  - pid: '1'
+  regions:
+  - id: '1'
     name: กลาง
-  - pid: '2'
+  - id: '2'
     name: เหนือ
-  - pid: '3'
+  - id: '3'
     name: ตะวันออกเฉีียงเหนือ
-  - pid: '4'
+  - id: '4'
     name: ตะวันออก
-  - pid: '5'
+  - id: '5'
     name: ตะวันตก
-  - pid: '6'
+  - id: '6'
     name: ใต้

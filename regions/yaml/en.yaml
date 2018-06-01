@@ -1,15 +1,15 @@
 ---
 en:
-  phaks:
-  - pid: '1'
+  regions:
+  - id: '1'
     name: Center
-  - pid: '2'
+  - id: '2'
     name: North
-  - pid: '3'
+  - id: '3'
     name: Northeast
-  - pid: '4'
+  - id: '4'
     name: East
-  - pid: '5'
+  - id: '5'
     name: West
-  - pid: '6'
+  - id: '6'
     name: South

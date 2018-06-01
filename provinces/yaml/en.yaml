@@ -1,0 +1,234 @@
+---
+en:
+  provinces:
+  - id: '10'
+    name: Bangkok
+    region_id: '1'
+  - id: '11'
+    name: Samut Prakarn
+    region_id: '1'
+  - id: '12'
+    name: Nonthaburi
+    region_id: '1'
+  - id: '13'
+    name: Pathum Thani
+    region_id: '1'
+  - id: '14'
+    name: Phra Nakhon Si Ayutthaya
+    region_id: '1'
+  - id: '15'
+    name: Ang Thong
+    region_id: '1'
+  - id: '16'
+    name: Lop Buri
+    region_id: '1'
+  - id: '17'
+    name: Sing Buri
+    region_id: '1'
+  - id: '18'
+    name: Chai Nat
+    region_id: '1'
+  - id: '19'
+    name: Saraburi
+    region_id: '1'
+  - id: '20'
+    name: Chon Buri
+    region_id: '4'
+  - id: '21'
+    name: Rayong
+    region_id: '4'
+  - id: '22'
+    name: Chanthaburi
+    region_id: '4'
+  - id: '23'
+    name: Trat
+    region_id: '4'
+  - id: '24'
+    name: Chachoengsao
+    region_id: '4'
+  - id: '25'
+    name: Prachin Buri
+    region_id: '4'
+  - id: '26'
+    name: Nakhon Nayok
+    region_id: '1'
+  - id: '27'
+    name: Sa kaeo
+    region_id: '4'
+  - id: '30'
+    name: Nakhon Ratchasima
+    region_id: '3'
+  - id: '31'
+    name: Buri Ram
+    region_id: '3'
+  - id: '32'
+    name: Surin
+    region_id: '3'
+  - id: '33'
+    name: Si Sa Ket
+    region_id: '3'
+  - id: '34'
+    name: Ubon Ratchathani
+    region_id: '3'
+  - id: '35'
+    name: Yasothon
+    region_id: '3'
+  - id: '36'
+    name: Chaiyaphum
+    region_id: '3'
+  - id: '37'
+    name: Amnat Charoen
+    region_id: '3'
+  - id: '38'
+    name: Bueng Kan
+    region_id: '3'
+  - id: '39'
+    name: Nong Bua Lam Phu
+    region_id: '3'
+  - id: '40'
+    name: Khon Kaen
+    region_id: '3'
+  - id: '41'
+    name: Udon Thani
+    region_id: '3'
+  - id: '42'
+    name: Loei
+    region_id: '3'
+  - id: '43'
+    name: Nong Khai
+    region_id: '3'
+  - id: '44'
+    name: Maha Sarakham
+    region_id: '3'
+  - id: '45'
+    name: Roi Et
+    region_id: '3'
+  - id: '46'
+    name: Kalasin
+    region_id: '3'
+  - id: '47'
+    name: Sakon Nakhon
+    region_id: '3'
+  - id: '48'
+    name: Nakhon Phanom
+    region_id: '3'
+  - id: '49'
+    name: Mukdahan
+    region_id: '3'
+  - id: '50'
+    name: Chiang Mai
+    region_id: '2'
+  - id: '51'
+    name: Lamphun
+    region_id: '2'
+  - id: '52'
+    name: Lampang
+    region_id: '2'
+  - id: '53'
+    name: Uttaradit
+    region_id: '2'
+  - id: '54'
+    name: Phrae
+    region_id: '2'
+  - id: '55'
+    name: Nan
+    region_id: '2'
+  - id: '56'
+    name: Phayao
+    region_id: '2'
+  - id: '57'
+    name: Chiang Rai
+    region_id: '2'
+  - id: '58'
+    name: Mae Hong Son
+    region_id: '2'
+  - id: '60'
+    name: Nakhon Sawan
+    region_id: '1'
+  - id: '61'
+    name: Uthai Thani
+    region_id: '1'
+  - id: '62'
+    name: Kamphaeng Phet
+    region_id: '1'
+  - id: '63'
+    name: Tak
+    region_id: '5'
+  - id: '64'
+    name: Sukhothai
+    region_id: '1'
+  - id: '65'
+    name: Phitsanulok
+    region_id: '1'
+  - id: '66'
+    name: Phichit
+    region_id: '1'
+  - id: '67'
+    name: Phetchabun
+    region_id: '1'
+  - id: '70'
+    name: Ratchaburi
+    region_id: '5'
+  - id: '71'
+    name: Kanchanaburi
+    region_id: '5'
+  - id: '72'
+    name: Suphan Buri
+    region_id: '1'
+  - id: '73'
+    name: Nakhon Pathom
+    region_id: '1'
+  - id: '74'
+    name: Samut Sakhon
+    region_id: '1'
+  - id: '75'
+    name: Samut Songkhram
+    region_id: '1'
+  - id: '76'
+    name: Phetchaburi
+    region_id: '5'
+  - id: '77'
+    name: Prachuap Khiri Khan
+    region_id: '5'
+  - id: '80'
+    name: Nakhon Si Thammarat
+    region_id: '6'
+  - id: '81'
+    name: Krabi
+    region_id: '6'
+  - id: '82'
+    name: Phang-nga
+    region_id: '6'
+  - id: '83'
+    name: Phuket
+    region_id: '6'
+  - id: '84'
+    name: Surat Thani
+    region_id: '6'
+  - id: '85'
+    name: Ranong
+    region_id: '6'
+  - id: '86'
+    name: Chumphon
+    region_id: '6'
+  - id: '90'
+    name: Songkhla
+    region_id: '6'
+  - id: '91'
+    name: Satun
+    region_id: '6'
+  - id: '92'
+    name: Trang
+    region_id: '6'
+  - id: '93'
+    name: Phatthalung
+    region_id: '6'
+  - id: '94'
+    name: Pattani
+    region_id: '6'
+  - id: '95'
+    name: Yala
+    region_id: '6'
+  - id: '96'
+    name: Narathiwat
+    region_id: '6'

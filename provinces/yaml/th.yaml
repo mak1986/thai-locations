@@ -1,234 +1,234 @@
 ---
 th:
-  changwats:
-  - pid: '10'
+  provinces:
+  - id: '10'
     name: "กรุงเทพมหานคร"
-    phak_pid: '1'
-  - pid: '11'
+    region_id: '1'
+  - id: '11'
     name: "สมุทรปราการ"
-    phak_pid: '1'
-  - pid: '12'
+    region_id: '1'
+  - id: '12'
     name: "นนทบุรี"
-    phak_pid: '1'
-  - pid: '13'
+    region_id: '1'
+  - id: '13'
     name: "ปทุมธานี"
-    phak_pid: '1'
-  - pid: '14'
+    region_id: '1'
+  - id: '14'
     name: "พระนครศรีอยุธยา"
-    phak_pid: '1'
-  - pid: '15'
+    region_id: '1'
+  - id: '15'
     name: "อ่างทอง"
-    phak_pid: '1'
-  - pid: '16'
+    region_id: '1'
+  - id: '16'
     name: "ลพบุรี"
-    phak_pid: '1'
-  - pid: '17'
+    region_id: '1'
+  - id: '17'
     name: "สิงห์บุรี"
-    phak_pid: '1'
-  - pid: '18'
+    region_id: '1'
+  - id: '18'
     name: "ชัยนาท"
-    phak_pid: '1'
-  - pid: '19'
+    region_id: '1'
+  - id: '19'
     name: "สระบุรี"
-    phak_pid: '1'
-  - pid: '20'
+    region_id: '1'
+  - id: '20'
     name: "ชลบุรี"
-    phak_pid: '4'
-  - pid: '21'
+    region_id: '4'
+  - id: '21'
     name: "ระยอง"
-    phak_pid: '4'
-  - pid: '22'
+    region_id: '4'
+  - id: '22'
     name: "จันทบุรี"
-    phak_pid: '4'
-  - pid: '23'
+    region_id: '4'
+  - id: '23'
     name: "ตราด"
-    phak_pid: '4'
-  - pid: '24'
+    region_id: '4'
+  - id: '24'
     name: "ฉะเชิงเทรา"
-    phak_pid: '4'
-  - pid: '25'
+    region_id: '4'
+  - id: '25'
     name: "ปราจีนบุรี"
-    phak_pid: '4'
-  - pid: '26'
+    region_id: '4'
+  - id: '26'
     name: "นครนายก"
-    phak_pid: '1'
-  - pid: '27'
+    region_id: '1'
+  - id: '27'
     name: "สระแก้ว"
-    phak_pid: '4'
-  - pid: '30'
+    region_id: '4'
+  - id: '30'
     name: "นครราชสีมา"
-    phak_pid: '3'
-  - pid: '31'
+    region_id: '3'
+  - id: '31'
     name: "บุรีรัมย์"
-    phak_pid: '3'
-  - pid: '32'
+    region_id: '3'
+  - id: '32'
     name: "สุรินทร์"
-    phak_pid: '3'
-  - pid: '33'
+    region_id: '3'
+  - id: '33'
     name: "ศรีสะเกษ"
-    phak_pid: '3'
-  - pid: '34'
+    region_id: '3'
+  - id: '34'
     name: "อุบลราชธานี"
-    phak_pid: '3'
-  - pid: '35'
+    region_id: '3'
+  - id: '35'
     name: "ยโสธร"
-    phak_pid: '3'
-  - pid: '36'
+    region_id: '3'
+  - id: '36'
     name: "ชัยภูมิ"
-    phak_pid: '3'
-  - pid: '37'
+    region_id: '3'
+  - id: '37'
     name: "อำนาจเจริญ"
-    phak_pid: '3'
-  - pid: '38'
+    region_id: '3'
+  - id: '38'
     name: "บึงกาฬ"
-    phak_pid: '3'
-  - pid: '39'
+    region_id: '3'
+  - id: '39'
     name: "หนองบัวลำภู"
-    phak_pid: '3'
-  - pid: '40'
+    region_id: '3'
+  - id: '40'
     name: "ขอนแก่น"
-    phak_pid: '3'
-  - pid: '41'
+    region_id: '3'
+  - id: '41'
     name: "อุดรธานี"
-    phak_pid: '3'
-  - pid: '42'
+    region_id: '3'
+  - id: '42'
     name: "เลย"
-    phak_pid: '3'
-  - pid: '43'
+    region_id: '3'
+  - id: '43'
     name: "หนองคาย"
-    phak_pid: '3'
-  - pid: '44'
+    region_id: '3'
+  - id: '44'
     name: "มหาสารคาม"
-    phak_pid: '3'
-  - pid: '45'
+    region_id: '3'
+  - id: '45'
     name: "ร้อยเอ็ด"
-    phak_pid: '3'
-  - pid: '46'
+    region_id: '3'
+  - id: '46'
     name: "กาฬสินธุ์"
-    phak_pid: '3'
-  - pid: '47'
+    region_id: '3'
+  - id: '47'
     name: "สกลนคร"
-    phak_pid: '3'
-  - pid: '48'
+    region_id: '3'
+  - id: '48'
     name: "นครพนม"
-    phak_pid: '3'
-  - pid: '49'
+    region_id: '3'
+  - id: '49'
     name: "มุกดาหาร"
-    phak_pid: '3'
-  - pid: '50'
+    region_id: '3'
+  - id: '50'
     name: "เชียงใหม่"
-    phak_pid: '2'
-  - pid: '51'
+    region_id: '2'
+  - id: '51'
     name: "ลำพูน"
-    phak_pid: '2'
-  - pid: '52'
+    region_id: '2'
+  - id: '52'
     name: "ลำปาง"
-    phak_pid: '2'
-  - pid: '53'
+    region_id: '2'
+  - id: '53'
     name: "อุตรดิตถ์"
-    phak_pid: '2'
-  - pid: '54'
+    region_id: '2'
+  - id: '54'
     name: "แพร่"
-    phak_pid: '2'
-  - pid: '55'
+    region_id: '2'
+  - id: '55'
     name: "น่าน"
-    phak_pid: '2'
-  - pid: '56'
+    region_id: '2'
+  - id: '56'
     name: "พะเยา"
-    phak_pid: '2'
-  - pid: '57'
+    region_id: '2'
+  - id: '57'
     name: "เชียงราย"
-    phak_pid: '2'
-  - pid: '58'
+    region_id: '2'
+  - id: '58'
     name: "แม่ฮ่องสอน"
-    phak_pid: '2'
-  - pid: '60'
+    region_id: '2'
+  - id: '60'
     name: "นครสวรรค์"
-    phak_pid: '1'
-  - pid: '61'
+    region_id: '1'
+  - id: '61'
     name: "อุทัยธานี"
-    phak_pid: '1'
-  - pid: '62'
+    region_id: '1'
+  - id: '62'
     name: "กำแพงเพชร"
-    phak_pid: '1'
-  - pid: '63'
+    region_id: '1'
+  - id: '63'
     name: "ตาก"
-    phak_pid: '5'
-  - pid: '64'
+    region_id: '5'
+  - id: '64'
     name: "สุโขทัย"
-    phak_pid: '1'
-  - pid: '65'
+    region_id: '1'
+  - id: '65'
     name: "พิษณุโลก"
-    phak_pid: '1'
-  - pid: '66'
+    region_id: '1'
+  - id: '66'
     name: "พิจิตร"
-    phak_pid: '1'
-  - pid: '67'
+    region_id: '1'
+  - id: '67'
     name: "เพชรบูรณ์"
-    phak_pid: '1'
-  - pid: '70'
+    region_id: '1'
+  - id: '70'
     name: "ราชบุรี"
-    phak_pid: '5'
-  - pid: '71'
+    region_id: '5'
+  - id: '71'
     name: "กาญจนบุรี"
-    phak_pid: '5'
-  - pid: '72'
+    region_id: '5'
+  - id: '72'
     name: "สุพรรณบุรี"
-    phak_pid: '1'
-  - pid: '73'
+    region_id: '1'
+  - id: '73'
     name: "นครปฐม"
-    phak_pid: '1'
-  - pid: '74'
+    region_id: '1'
+  - id: '74'
     name: "สมุทรสาคร"
-    phak_pid: '1'
-  - pid: '75'
+    region_id: '1'
+  - id: '75'
     name: "สมุทรสงคราม"
-    phak_pid: '1'
-  - pid: '76'
+    region_id: '1'
+  - id: '76'
     name: "เพชรบุรี"
-    phak_pid: '5'
-  - pid: '77'
+    region_id: '5'
+  - id: '77'
     name: "ประจวบคีรีขันธ์"
-    phak_pid: '5'
-  - pid: '80'
+    region_id: '5'
+  - id: '80'
     name: "นครศรีธรรมราช"
-    phak_pid: '6'
-  - pid: '81'
+    region_id: '6'
+  - id: '81'
     name: "กระบี่"
-    phak_pid: '6'
-  - pid: '82'
+    region_id: '6'
+  - id: '82'
     name: "พังงา"
-    phak_pid: '6'
-  - pid: '83'
+    region_id: '6'
+  - id: '83'
     name: "ภูเก็ต"
-    phak_pid: '6'
-  - pid: '84'
+    region_id: '6'
+  - id: '84'
     name: "สุราษฎร์ธานี"
-    phak_pid: '6'
-  - pid: '85'
+    region_id: '6'
+  - id: '85'
     name: "ระนอง"
-    phak_pid: '6'
-  - pid: '86'
+    region_id: '6'
+  - id: '86'
     name: "ชุมพร"
-    phak_pid: '6'
-  - pid: '90'
+    region_id: '6'
+  - id: '90'
     name: "สงขลา"
-    phak_pid: '6'
-  - pid: '91'
+    region_id: '6'
+  - id: '91'
     name: "สตูล"
-    phak_pid: '6'
-  - pid: '92'
+    region_id: '6'
+  - id: '92'
     name: "ตรัง"
-    phak_pid: '6'
-  - pid: '93'
+    region_id: '6'
+  - id: '93'
     name: "พัทลุง"
-    phak_pid: '6'
-  - pid: '94'
+    region_id: '6'
+  - id: '94'
     name: "ปัตตานี"
-    phak_pid: '6'
-  - pid: '95'
+    region_id: '6'
+  - id: '95'
     name: "ยะลา"
-    phak_pid: '6'
-  - pid: '96'
+    region_id: '6'
+  - id: '96'
     name: "นราธิวาส"
-    phak_pid: '6'
+    region_id: '6'
