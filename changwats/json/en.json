@@ -3,311 +3,388 @@
     "changwats": [
       {
         "pid": "10",
-        "name": "Bangkok"
+        "name": "Bangkok",
+        "phak_pid": "1"
       },
       {
         "pid": "11",
-        "name": "Samut Prakarn"
+        "name": "Samut Prakarn",
+        "phak_pid": "1"
       },
       {
         "pid": "12",
-        "name": "Nonthaburi"
+        "name": "Nonthaburi",
+        "phak_pid": "1"
       },
       {
         "pid": "13",
-        "name": "Pathum Thani"
+        "name": "Pathum Thani",
+        "phak_pid": "1"
       },
       {
         "pid": "14",
-        "name": "Phra Nakhon Si Ayutthaya"
+        "name": "Phra Nakhon Si Ayutthaya",
+        "phak_pid": "1"
       },
       {
         "pid": "15",
-        "name": "Ang Thong"
+        "name": "Ang Thong",
+        "phak_pid": "1"
       },
       {
         "pid": "16",
-        "name": "Lop Buri"
+        "name": "Lop Buri",
+        "phak_pid": "1"
       },
       {
         "pid": "17",
-        "name": "Sing Buri"
+        "name": "Sing Buri",
+        "phak_pid": "1"
       },
       {
         "pid": "18",
-        "name": "Chai Nat"
+        "name": "Chai Nat",
+        "phak_pid": "1"
       },
       {
         "pid": "19",
-        "name": "Saraburi"
+        "name": "Saraburi",
+        "phak_pid": "1"
       },
       {
         "pid": "20",
-        "name": "Chon Buri"
+        "name": "Chon Buri",
+        "phak_pid": "4"
       },
       {
         "pid": "21",
-        "name": "Rayong"
+        "name": "Rayong",
+        "phak_pid": "4"
       },
       {
         "pid": "22",
-        "name": "Chanthaburi"
+        "name": "Chanthaburi",
+        "phak_pid": "4"
       },
       {
         "pid": "23",
-        "name": "Trat"
+        "name": "Trat",
+        "phak_pid": "4"
       },
       {
         "pid": "24",
-        "name": "Chachoengsao"
+        "name": "Chachoengsao",
+        "phak_pid": "4"
       },
       {
         "pid": "25",
-        "name": "Prachin Buri"
+        "name": "Prachin Buri",
+        "phak_pid": "4"
       },
       {
         "pid": "26",
-        "name": "Nakhon Nayok"
+        "name": "Nakhon Nayok",
+        "phak_pid": "1"
       },
       {
         "pid": "27",
-        "name": "Sa kaeo"
+        "name": "Sa kaeo",
+        "phak_pid": "4"
       },
       {
         "pid": "30",
-        "name": "Nakhon Ratchasima"
+        "name": "Nakhon Ratchasima",
+        "phak_pid": "3"
       },
       {
         "pid": "31",
-        "name": "Buri Ram"
+        "name": "Buri Ram",
+        "phak_pid": "3"
       },
       {
         "pid": "32",
-        "name": "Surin"
+        "name": "Surin",
+        "phak_pid": "3"
       },
       {
         "pid": "33",
-        "name": "Si Sa Ket"
+        "name": "Si Sa Ket",
+        "phak_pid": "3"
       },
       {
         "pid": "34",
-        "name": "Ubon Ratchathani"
+        "name": "Ubon Ratchathani",
+        "phak_pid": "3"
       },
       {
         "pid": "35",
-        "name": "Yasothon"
+        "name": "Yasothon",
+        "phak_pid": "3"
       },
       {
         "pid": "36",
-        "name": "Chaiyaphum"
+        "name": "Chaiyaphum",
+        "phak_pid": "3"
       },
       {
         "pid": "37",
-        "name": "Amnat Charoen"
+        "name": "Amnat Charoen",
+        "phak_pid": "3"
       },
       {
         "pid": "38",
-        "name": "Bueng Kan"
+        "name": "Bueng Kan",
+        "phak_pid": "3"
       },
       {
         "pid": "39",
-        "name": "Nong Bua Lam Phu"
+        "name": "Nong Bua Lam Phu",
+        "phak_pid": "3"
       },
       {
         "pid": "40",
-        "name": "Khon Kaen"
+        "name": "Khon Kaen",
+        "phak_pid": "3"
       },
       {
         "pid": "41",
-        "name": "Udon Thani"
+        "name": "Udon Thani",
+        "phak_pid": "3"
       },
       {
         "pid": "42",
-        "name": "Loei"
+        "name": "Loei",
+        "phak_pid": "3"
       },
       {
         "pid": "43",
-        "name": "Nong Khai"
+        "name": "Nong Khai",
+        "phak_pid": "3"
       },
       {
         "pid": "44",
-        "name": "Maha Sarakham"
+        "name": "Maha Sarakham",
+        "phak_pid": "3"
       },
       {
         "pid": "45",
-        "name": "Roi Et"
+        "name": "Roi Et",
+        "phak_pid": "3"
       },
       {
         "pid": "46",
-        "name": "Kalasin"
+        "name": "Kalasin",
+        "phak_pid": "3"
       },
       {
         "pid": "47",
-        "name": "Sakon Nakhon"
+        "name": "Sakon Nakhon",
+        "phak_pid": "3"
       },
       {
         "pid": "48",
-        "name": "Nakhon Phanom"
+        "name": "Nakhon Phanom",
+        "phak_pid": "3"
       },
       {
         "pid": "49",
-        "name": "Mukdahan"
+        "name": "Mukdahan",
+        "phak_pid": "3"
       },
       {
         "pid": "50",
-        "name": "Chiang Mai"
+        "name": "Chiang Mai",
+        "phak_pid": "2"
       },
       {
         "pid": "51",
-        "name": "Lamphun"
+        "name": "Lamphun",
+        "phak_pid": "2"
       },
       {
         "pid": "52",
-        "name": "Lampang"
+        "name": "Lampang",
+        "phak_pid": "2"
       },
       {
         "pid": "53",
-        "name": "Uttaradit"
+        "name": "Uttaradit",
+        "phak_pid": "2"
       },
       {
         "pid": "54",
-        "name": "Phrae"
+        "name": "Phrae",
+        "phak_pid": "2"
       },
       {
         "pid": "55",
-        "name": "Nan"
+        "name": "Nan",
+        "phak_pid": "2"
       },
       {
         "pid": "56",
-        "name": "Phayao"
+        "name": "Phayao",
+        "phak_pid": "2"
       },
       {
         "pid": "57",
-        "name": "Chiang Rai"
+        "name": "Chiang Rai",
+        "phak_pid": "2"
       },
       {
         "pid": "58",
-        "name": "Mae Hong Son"
+        "name": "Mae Hong Son",
+        "phak_pid": "2"
       },
       {
         "pid": "60",
-        "name": "Nakhon Sawan"
+        "name": "Nakhon Sawan",
+        "phak_pid": "1"
       },
       {
         "pid": "61",
-        "name": "Uthai Thani"
+        "name": "Uthai Thani",
+        "phak_pid": "1"
       },
       {
         "pid": "62",
-        "name": "Kamphaeng Phet"
+        "name": "Kamphaeng Phet",
+        "phak_pid": "1"
       },
       {
         "pid": "63",
-        "name": "Tak"
+        "name": "Tak",
+        "phak_pid": "5"
       },
       {
         "pid": "64",
-        "name": "Sukhothai"
+        "name": "Sukhothai",
+        "phak_pid": "1"
       },
       {
         "pid": "65",
-        "name": "Phitsanulok"
+        "name": "Phitsanulok",
+        "phak_pid": "1"
       },
       {
         "pid": "66",
-        "name": "Phichit"
+        "name": "Phichit",
+        "phak_pid": "1"
       },
       {
         "pid": "67",
-        "name": "Phetchabun"
+        "name": "Phetchabun",
+        "phak_pid": "1"
       },
       {
         "pid": "70",
-        "name": "Ratchaburi"
+        "name": "Ratchaburi",
+        "phak_pid": "5"
       },
       {
         "pid": "71",
-        "name": "Kanchanaburi"
+        "name": "Kanchanaburi",
+        "phak_pid": "5"
       },
       {
         "pid": "72",
-        "name": "Suphan Buri"
+        "name": "Suphan Buri",
+        "phak_pid": "1"
       },
       {
         "pid": "73",
-        "name": "Nakhon Pathom"
+        "name": "Nakhon Pathom",
+        "phak_pid": "1"
       },
       {
         "pid": "74",
-        "name": "Samut Sakhon"
+        "name": "Samut Sakhon",
+        "phak_pid": "1"
       },
       {
         "pid": "75",
-        "name": "Samut Songkhram"
+        "name": "Samut Songkhram",
+        "phak_pid": "1"
       },
       {
         "pid": "76",
-        "name": "Phetchaburi"
+        "name": "Phetchaburi",
+        "phak_pid": "5"
       },
       {
         "pid": "77",
-        "name": "Prachuap Khiri Khan"
+        "name": "Prachuap Khiri Khan",
+        "phak_pid": "5"
       },
       {
         "pid": "80",
-        "name": "Nakhon Si Thammarat"
+        "name": "Nakhon Si Thammarat",
+        "phak_pid": "6"
       },
       {
         "pid": "81",
-        "name": "Krabi"
+        "name": "Krabi",
+        "phak_pid": "6"
       },
       {
         "pid": "82",
-        "name": "Phang-nga"
+        "name": "Phang-nga",
+        "phak_pid": "6"
       },
       {
         "pid": "83",
-        "name": "Phuket"
+        "name": "Phuket",
+        "phak_pid": "6"
       },
       {
         "pid": "84",
-        "name": "Surat Thani"
+        "name": "Surat Thani",
+        "phak_pid": "6"
       },
       {
         "pid": "85",
-        "name": "Ranong"
+        "name": "Ranong",
+        "phak_pid": "6"
       },
       {
         "pid": "86",
-        "name": "Chumphon"
+        "name": "Chumphon",
+        "phak_pid": "6"
       },
       {
         "pid": "90",
-        "name": "Songkhla"
+        "name": "Songkhla",
+        "phak_pid": "6"
       },
       {
         "pid": "91",
-        "name": "Satun"
+        "name": "Satun",
+        "phak_pid": "6"
       },
       {
         "pid": "92",
-        "name": "Trang"
+        "name": "Trang",
+        "phak_pid": "6"
       },
       {
         "pid": "93",
-        "name": "Phatthalung"
+        "name": "Phatthalung",
+        "phak_pid": "6"
       },
       {
         "pid": "94",
-        "name": "Pattani"
+        "name": "Pattani",
+        "phak_pid": "6"
       },
       {
         "pid": "95",
-        "name": "Yala"
+        "name": "Yala",
+        "phak_pid": "6"
       },
       {
         "pid": "96",
-        "name": "Narathiwat"
+        "name": "Narathiwat",
+        "phak_pid": "6"
       }
     ]
   }

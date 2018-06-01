@@ -1,0 +1,30 @@
+{
+  "en": {
+    "phaks": [
+      {
+        "pid": "1",
+        "name": "Center"
+      },
+      {
+        "pid": "2",
+        "name": "North"
+      },
+      {
+        "pid": "3",
+        "name": "Northeast"
+      },
+      {
+        "pid": "4",
+        "name": "East"
+      },
+      {
+        "pid": "5",
+        "name": "West"
+      },
+      {
+        "pid": "6",
+        "name": "South"
+      }
+    ]
+  }
+}
