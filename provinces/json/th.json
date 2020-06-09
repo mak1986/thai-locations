@@ -4,387 +4,541 @@
       {
         "id": "10",
         "name": "กรุงเทพมหานคร",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 13.7563309,
+        "longitude": 100.5017651
       },
       {
         "id": "11",
         "name": "สมุทรปราการ",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 13.5990961,
+        "longitude": 100.5998319
       },
       {
         "id": "12",
         "name": "นนทบุรี",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 13.8621125,
+        "longitude": 100.5143528
       },
       {
         "id": "13",
         "name": "ปทุมธานี",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 14.0208391,
+        "longitude": 100.5250276
       },
       {
         "id": "14",
         "name": "พระนครศรีอยุธยา",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 14.3532128,
+        "longitude": 100.5689599
       },
       {
         "id": "15",
         "name": "อ่างทอง",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 14.5896054,
+        "longitude": 100.455052
       },
       {
         "id": "16",
         "name": "ลพบุรี",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 14.7995081,
+        "longitude": 100.6533706
       },
       {
         "id": "17",
         "name": "สิงห์บุรี",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 14.8936253,
+        "longitude": 100.3967314
       },
       {
         "id": "18",
         "name": "ชัยนาท",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 15.1851971,
+        "longitude": 100.125125
       },
       {
         "id": "19",
         "name": "สระบุรี",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 14.5289154,
+        "longitude": 100.9101421
       },
       {
         "id": "20",
         "name": "ชลบุรี",
-        "region_id": "4"
+        "region_id": "4",
+        "latitude": 13.3611431,
+        "longitude": 100.9846717
       },
       {
         "id": "21",
         "name": "ระยอง",
-        "region_id": "4"
+        "region_id": "4",
+        "latitude": 12.707434,
+        "longitude": 101.1473517
       },
       {
         "id": "22",
         "name": "จันทบุรี",
-        "region_id": "4"
+        "region_id": "4",
+        "latitude": 12.61134,
+        "longitude": 102.1038546
       },
       {
         "id": "23",
         "name": "ตราด",
-        "region_id": "4"
+        "region_id": "4",
+        "latitude": 12.2427563,
+        "longitude": 102.5174734
       },
       {
         "id": "24",
         "name": "ฉะเชิงเทรา",
-        "region_id": "4"
+        "region_id": "4",
+        "latitude": 13.6904194,
+        "longitude": 101.0779596
       },
       {
         "id": "25",
         "name": "ปราจีนบุรี",
-        "region_id": "4"
+        "region_id": "4",
+        "latitude": 14.0420699,
+        "longitude": 101.6600874
       },
       {
         "id": "26",
         "name": "นครนายก",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 14.2069466,
+        "longitude": 101.2130511
       },
       {
         "id": "27",
         "name": "สระแก้ว",
-        "region_id": "4"
+        "region_id": "4",
+        "latitude": 13.824038,
+        "longitude": 102.0645839
       },
       {
         "id": "30",
         "name": "นครราชสีมา",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 14.9798997,
+        "longitude": 102.0977693
       },
       {
         "id": "31",
         "name": "บุรีรัมย์",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 14.9930017,
+        "longitude": 103.1029191
       },
       {
         "id": "32",
         "name": "สุรินทร์",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 14.882905,
+        "longitude": 103.4937107
       },
       {
         "id": "33",
         "name": "ศรีสะเกษ",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 15.1186009,
+        "longitude": 104.3220095
       },
       {
         "id": "34",
         "name": "อุบลราชธานี",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 15.2286861,
+        "longitude": 104.8564217
       },
       {
         "id": "35",
         "name": "ยโสธร",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 15.792641,
+        "longitude": 104.1452827
       },
       {
         "id": "36",
         "name": "ชัยภูมิ",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 15.8068173,
+        "longitude": 102.0315027
       },
       {
         "id": "37",
         "name": "อำนาจเจริญ",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 15.8656783,
+        "longitude": 104.6257774
       },
       {
         "id": "38",
         "name": "บึงกาฬ",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 18.3609104,
+        "longitude": 103.6464463
       },
       {
         "id": "39",
         "name": "หนองบัวลำภู",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 17.2218247,
+        "longitude": 102.4260368
       },
       {
         "id": "40",
         "name": "ขอนแก่น",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 16.4419355,
+        "longitude": 102.8359921
       },
       {
         "id": "41",
         "name": "อุดรธานี",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 17.4138413,
+        "longitude": 102.7872325
       },
       {
         "id": "42",
         "name": "เลย",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 17.4860232,
+        "longitude": 101.7223002
       },
       {
         "id": "43",
         "name": "หนองคาย",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 17.8782803,
+        "longitude": 102.7412638
       },
       {
         "id": "44",
         "name": "มหาสารคาม",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 16.0132015,
+        "longitude": 103.1615169
       },
       {
         "id": "45",
         "name": "ร้อยเอ็ด",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 16.0538196,
+        "longitude": 103.6520036
       },
       {
         "id": "46",
         "name": "กาฬสินธุ์",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 16.4314078,
+        "longitude": 103.5058755
       },
       {
         "id": "47",
         "name": "สกลนคร",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 17.1545995,
+        "longitude": 104.1348365
       },
       {
         "id": "48",
         "name": "นครพนม",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 17.392039,
+        "longitude": 104.7695508
       },
       {
         "id": "49",
         "name": "มุกดาหาร",
-        "region_id": "3"
+        "region_id": "3",
+        "latitude": 16.5695723,
+        "longitude": 104.5231213
       },
       {
         "id": "50",
         "name": "เชียงใหม่",
-        "region_id": "2"
+        "region_id": "2",
+        "latitude": 18.7952876,
+        "longitude": 98.96200019999999
       },
       {
         "id": "51",
         "name": "ลำพูน",
-        "region_id": "2"
+        "region_id": "2",
+        "latitude": 18.5744606,
+        "longitude": 99.0087221
       },
       {
         "id": "52",
         "name": "ลำปาง",
-        "region_id": "2"
+        "region_id": "2",
+        "latitude": 18.2888404,
+        "longitude": 99.49087399999999
       },
       {
         "id": "53",
         "name": "อุตรดิตถ์",
-        "region_id": "2"
+        "region_id": "2",
+        "latitude": 17.6200886,
+        "longitude": 100.0992942
       },
       {
         "id": "54",
         "name": "แพร่",
-        "region_id": "2"
+        "region_id": "2",
+        "latitude": 18.1445774,
+        "longitude": 100.1402831
       },
       {
         "id": "55",
         "name": "น่าน",
-        "region_id": "2"
+        "region_id": "2",
+        "latitude": 18.7756318,
+        "longitude": 100.7730417
       },
       {
         "id": "56",
         "name": "พะเยา",
-        "region_id": "2"
+        "region_id": "2",
+        "latitude": 19.2154367,
+        "longitude": 100.2023692
       },
       {
         "id": "57",
         "name": "เชียงราย",
-        "region_id": "2"
+        "region_id": "2",
+        "latitude": 19.9071656,
+        "longitude": 99.830955
       },
       {
         "id": "58",
         "name": "แม่ฮ่องสอน",
-        "region_id": "2"
+        "region_id": "2",
+        "latitude": 19.3020296,
+        "longitude": 97.96543679999999
       },
       {
         "id": "60",
         "name": "นครสวรรค์",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 15.6930072,
+        "longitude": 100.1225595
       },
       {
         "id": "61",
         "name": "อุทัยธานี",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 15.3835001,
+        "longitude": 100.0245527
       },
       {
         "id": "62",
         "name": "กำแพงเพชร",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 16.4827798,
+        "longitude": 99.5226618
       },
       {
         "id": "63",
         "name": "ตาก",
-        "region_id": "5"
+        "region_id": "5",
+        "latitude": 16.8839901,
+        "longitude": 99.1258498
       },
       {
         "id": "64",
         "name": "สุโขทัย",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 17.0055573,
+        "longitude": 99.8263712
       },
       {
         "id": "65",
         "name": "พิษณุโลก",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 16.8211238,
+        "longitude": 100.2658516
       },
       {
         "id": "66",
         "name": "พิจิตร",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 16.2740876,
+        "longitude": 100.3346991
       },
       {
         "id": "67",
         "name": "เพชรบูรณ์",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 16.301669,
+        "longitude": 101.1192804
       },
       {
         "id": "70",
         "name": "ราชบุรี",
-        "region_id": "5"
+        "region_id": "5",
+        "latitude": 13.5282893,
+        "longitude": 99.8134211
       },
       {
         "id": "71",
         "name": "กาญจนบุรี",
-        "region_id": "5"
+        "region_id": "5",
+        "latitude": 14.0227797,
+        "longitude": 99.5328115
       },
       {
         "id": "72",
         "name": "สุพรรณบุรี",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 14.4744892,
+        "longitude": 100.1177128
       },
       {
         "id": "73",
         "name": "นครปฐม",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 13.8199206,
+        "longitude": 100.0621676
       },
       {
         "id": "74",
         "name": "สมุทรสาคร",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 13.5475216,
+        "longitude": 100.2743956
       },
       {
         "id": "75",
         "name": "สมุทรสงคราม",
-        "region_id": "1"
+        "region_id": "1",
+        "latitude": 13.4098217,
+        "longitude": 100.0022645
       },
       {
         "id": "76",
         "name": "เพชรบุรี",
-        "region_id": "5"
+        "region_id": "5",
+        "latitude": 12.9649215,
+        "longitude": 99.6425883
       },
       {
         "id": "77",
         "name": "ประจวบคีรีขันธ์",
-        "region_id": "5"
+        "region_id": "5",
+        "latitude": 11.812367,
+        "longitude": 99.79732709999999
       },
       {
         "id": "80",
         "name": "นครศรีธรรมราช",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 8.4303975,
+        "longitude": 99.96312189999999
       },
       {
         "id": "81",
         "name": "กระบี่",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 8.0862997,
+        "longitude": 98.9062835
       },
       {
         "id": "82",
         "name": "พังงา",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 8.4501414,
+        "longitude": 98.5255317
       },
       {
         "id": "83",
         "name": "ภูเก็ต",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 7.9519331,
+        "longitude": 98.33808839999999
       },
       {
         "id": "84",
         "name": "สุราษฎร์ธานี",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 9.1382389,
+        "longitude": 99.3217483
       },
       {
         "id": "85",
         "name": "ระนอง",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 9.9528702,
+        "longitude": 98.60846409999999
       },
       {
         "id": "86",
         "name": "ชุมพร",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 10.4930496,
+        "longitude": 99.18001989999999
       },
       {
         "id": "90",
         "name": "สงขลา",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 7.1756004,
+        "longitude": 100.614347
       },
       {
         "id": "91",
         "name": "สตูล",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 6.6238158,
+        "longitude": 100.0673744
       },
       {
         "id": "92",
         "name": "ตรัง",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 7.5593851,
+        "longitude": 99.6110065
       },
       {
         "id": "93",
         "name": "พัทลุง",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 7.6166823,
+        "longitude": 100.0740231
       },
       {
         "id": "94",
         "name": "ปัตตานี",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 6.761830799999999,
+        "longitude": 101.3232549
       },
       {
         "id": "95",
         "name": "ยะลา",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 6.541147,
+        "longitude": 101.2803947
       },
       {
         "id": "96",
         "name": "นราธิวาส",
-        "region_id": "6"
+        "region_id": "6",
+        "latitude": 6.4254607,
+        "longitude": 101.8253143
       }
     ]
   }
