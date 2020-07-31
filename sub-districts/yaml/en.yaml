@@ -24811,6 +24811,12 @@ en:
     longitude: 98.998
     district_id: '5001'
     province_id: '50'
+  - id: '500117'
+    name: Mae Hia
+    latitude: 18.743
+    longitude: 98.933
+    district_id: '5001'
+    province_id: '50'
   - id: '500203'
     name: Ban Luang
     latitude: 18.502
